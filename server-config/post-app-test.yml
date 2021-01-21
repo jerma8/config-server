@@ -1,5 +1,0 @@
-server:
-    port: 9002
-environment: "test"
-environment-title: "Test environment"
-default-lang: "HR"
