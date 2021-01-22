@@ -1,5 +1,0 @@
-server:
-    port: 9004
-environment: "prod"
-environment-title: "Prod environment"
-default-lang: "EN"

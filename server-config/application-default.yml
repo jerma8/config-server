@@ -1,5 +1,0 @@
-server:
-    port: 9001
-environment: "default"
-environment-title: "Default environment"
-default-lang: "HR"
