@@ -1,0 +1,3 @@
+environment: "test"
+environment-title: "Test environment"
+default-lang: "EN"
