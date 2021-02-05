@@ -1,0 +1,3 @@
+environment: "test"
+environment-title: "Test App environment"
+default-lang: "EN"
